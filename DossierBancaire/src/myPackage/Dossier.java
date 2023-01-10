@@ -3,12 +3,12 @@ package myPackage;
 public class Dossier {
 	
 	public Compte compteCourant;
-	public Compte compteEpargne;
+	public CompteEpargne compteEpargne;
 	
     public Dossier()
     {
     	compteCourant = new Compte();
-    	compteEpargne = new Compte();
+    	compteEpargne = new CompteEpargne();
     }
 
     public void crediter(double value) {
@@ -19,6 +19,6 @@ public class Dossier {
     	return (compteCourant.solde + compteEpargne.solde);
     }
     public void remunerer() {
-    	compteEpargne.solde += (0.032 * compteEpargne.solde);
+    	compteEpargne.remunerer();
     }
 }
