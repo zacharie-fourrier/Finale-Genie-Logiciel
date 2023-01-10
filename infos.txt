@@ -1,0 +1,6 @@
+Pour avoir une bonne note:
+
+1- Document fait en LATEX
+2- Diagrammes UML, de Séquence, d'Objet, d'UML et Use Case
+3- Versionning avec GIT
+4- Le code Java du projet terminé
