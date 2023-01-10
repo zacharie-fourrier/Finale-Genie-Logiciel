@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Diagramme_de_classe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0129245"
+     inkscape:cx="471.40729"
+     inkscape:cy="385.51738"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-144.09347"
+       y="93.508565"
+       width="80.530747"
+       height="62.733873"
+       id="rect8169" />
+    <marker
+       style="overflow:visible"
+       id="Diamond"
+       refX="-3"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="7.2124891"
+       markerHeight="7.2124891"
+       viewBox="0 0 7.2124892 7.2124892"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="Diamond1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-6"
+       refX="-3"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="7.2124891"
+       markerHeight="7.2124891"
+       viewBox="0 0 7.2124892 7.2124892"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="Diamond1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-2"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-4"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9121">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect111"
+         width="92.074997"
+         height="12.7"
+         x="14.71698"
+         y="31.183504" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect111-9"
+         width="92.074997"
+         height="25.929167"
+         x="14.71698"
+         y="44.41267" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect111-9-5"
+         width="92.074997"
+         height="25.929167"
+         x="199.92532"
+         y="44.41267" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529166;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect111-9-5-3"
+         width="92.074997"
+         height="2.1166663"
+         x="199.92532"
+         y="70.871002" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect111-9-5-5"
+         width="92.074997"
+         height="25.929167"
+         x="14.71698"
+         y="70.871002" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="40.332157"
+         y="41.310799"
+         id="text2816"><tspan
+           sodipodi:role="line"
+           style="stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           x="40.332157"
+           y="41.310799"
+           id="tspan2818">Dossier</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.529166;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect3636"
+         width="92.075005"
+         height="12.7"
+         x="199.92532"
+         y="31.183502" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="223.50966"
+         y="40.420673"
+         id="text3640"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="223.50966"
+           y="40.420673"
+           id="tspan3642">Compte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="112.00292"
+         y="49.00235"
+         id="text5170"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="112.00292"
+           y="49.00235"
+           id="tspan6309">+compteCourant</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="108.23683"
+         y="56.981213"
+         id="text5178"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="108.23683"
+           y="56.981213"
+           id="tspan5184">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="194.73062"
+         y="57.655724"
+         id="text5190"><tspan
+           sodipodi:role="line"
+           id="tspan5188"
+           style="stroke-width:0.264583"
+           x="194.73062"
+           y="57.655724">1</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Diamond);marker-end:url(#Arrow1L)"
+         d="m 107.05656,51.027254 92.60417,10e-7"
+         id="path5192" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="112.32374"
+         y="63.735363"
+         id="text5170-5"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="112.32374"
+           y="63.735363"
+           id="tspan7351">+compteEpargne</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="108.55765"
+         y="71.714218"
+         id="text5178-6"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="108.55765"
+           y="71.714218"
+           id="tspan5184-7">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="195.05144"
+         y="72.388733"
+         id="text5190-1"><tspan
+           sodipodi:role="line"
+           id="tspan5188-7"
+           style="stroke-width:0.264583"
+           x="195.05144"
+           y="72.388733">1</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Diamond-6);marker-end:url(#Arrow1L-2)"
+         d="m 107.37737,65.760277 92.60417,10e-7"
+         id="path5192-4" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="200.50748"
+         y="53.581985"
+         id="text7357"><tspan
+           sodipodi:role="line"
+           id="tspan7355"
+           style="stroke-width:0.264583"
+           x="200.50748"
+           y="53.581985">+solde : double</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="200.50748"
+           y="62.401436"
+           id="tspan7359" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="16.02879"
+         y="76.99659"
+         id="text8161"><tspan
+           sodipodi:role="line"
+           id="tspan8159"
+           style="stroke-width:0.264583"
+           x="16.02879"
+           y="76.99659">+getSolde():double</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="16.02879"
+           y="85.816032"
+           id="tspan8163">+remunerer()</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="16.02879"
+           y="94.635483"
+           id="tspan8165">+crediter(double)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8167"
+       style="line-height:1.25;font-family:sans-serif;font-size:26.66666667px;white-space:pre;shape-inside:url(#rect8169)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="91.603897"
+       y="19.609119"
+       id="text8997"><tspan
+         sodipodi:role="line"
+         id="tspan8995"
+         style="stroke-width:0.264583"
+         x="91.603897"
+         y="19.609119">Diagrame UML de classe</tspan></text>
+  </g>
+</svg>
