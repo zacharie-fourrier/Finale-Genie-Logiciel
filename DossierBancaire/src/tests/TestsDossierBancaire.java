@@ -3,7 +3,9 @@ package tests;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
+import myPackage.Compte;
 import myPackage.CompteCourantSeulement;
+import myPackage.CompteEpargne;
 import myPackage.Dossier;
 
 public class TestsDossierBancaire {
@@ -46,5 +48,14 @@ public class TestsDossierBancaire {
 		Dossier dossier=new CompteCourantSeulement();
 		dossier.crediter(100);
 		assertEquals(100,dossier.getSolde(),0);
+	}
+	
+	@Test  
+	public void test6()
+	{
+		CompteEpargne compte=new CompteEpargne();
+		compte.solde = 100;
+		compte.remunerer();
+		assertEquals(103.2,compte.solde,0);
 	}
 }
