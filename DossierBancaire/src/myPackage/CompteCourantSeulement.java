@@ -2,8 +2,8 @@ package myPackage;
 
 public class CompteCourantSeulement extends Dossier{
 	@Override
-	public void crediter(double value) {
-    	compteCourant.solde += value;
+	public void crediter(double val) {
+    	compteCourant.solde += val;
     }
 	
 	@Override
