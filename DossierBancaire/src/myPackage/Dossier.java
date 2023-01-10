@@ -11,9 +11,9 @@ public class Dossier {
     	compteEpargne = new CompteEpargne();
     }
 
-    public void crediter(double value) {
-    	compteCourant.solde += (0.4 * value);
-    	compteEpargne.solde += (0.6 * value);
+    public void crediter(double val) {
+    	compteCourant.solde += (0.4 * val);
+    	compteEpargne.solde += (0.6 * val);
     }
     public double getSolde() {
     	return (compteCourant.solde + compteEpargne.solde);
