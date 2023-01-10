@@ -3,12 +3,12 @@
 
 <svg
    width="1100"
-   height="400"
-   viewBox="0 0 291.04167 105.83333"
+   height="426"
+   viewBox="0 0 291.04167 112.71241"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="Diagramme_de_classe.svg"
+   sodipodi:docname="Diagramme_de_classe.svg.2023_01_10_14_35_47.0.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0129245"
-     inkscape:cx="558.28445"
-     inkscape:cy="385.51738"
+     inkscape:cx="486.2159"
+     inkscape:cy="386.50462"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g9121" />
+     inkscape:current-layer="g956" />
   <defs
      id="defs2">
     <rect
@@ -126,7 +126,8 @@
        id="g9121">
       <g
          id="g968"
-         style="stroke:#fefefe;stroke-opacity:1">
+         style="stroke:#fefefe;stroke-opacity:1"
+         transform="translate(-7.79131,-1.504934)">
         <rect
            style="fill:none;fill-rule:evenodd;stroke:#fefefe;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
            id="rect111"
@@ -149,19 +150,19 @@
            x="199.92532"
            y="44.41267" />
         <rect
-           style="fill:none;fill-rule:evenodd;stroke:#fefefe;stroke-width:0.529166;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#fefefe;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
            id="rect111-9-5-3"
            width="92.074997"
-           height="2.1166663"
+           height="20.637501"
            x="199.92532"
-           y="70.871002" />
+           y="70.870995" />
         <rect
-           style="fill:none;fill-rule:evenodd;stroke:#fefefe;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#fefefe;stroke-width:0.626768;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
            id="rect111-9-5-5"
-           width="92.074997"
-           height="25.929167"
-           x="14.71698"
-           y="70.871002" />
+           width="91.977409"
+           height="36.414898"
+           x="14.765781"
+           y="70.919838" />
         <rect
            style="fill:none;stroke:#fefefe;stroke-width:0.529166;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            id="rect3636"
@@ -180,143 +181,160 @@
       </g>
       <g
          id="g956"
-         style="fill:#ffffff;fill-opacity:1">
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         transform="translate(-7.79131,-1.504934)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
            x="40.332157"
            y="41.310799"
            id="text2816"><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
              x="40.332157"
              y="41.310799"
              id="tspan2818">Dossier</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
            x="223.50966"
            y="40.420673"
            id="text3640"><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="223.50966"
              y="40.420673"
              id="tspan3642">Compte</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="112.00292"
            y="49.00235"
            id="text5170"><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="112.00292"
              y="49.00235"
              id="tspan6309">+compteCourant</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="108.23683"
            y="56.981213"
            id="text5178"><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="108.23683"
              y="56.981213"
              id="tspan5184">1</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="194.73062"
            y="57.655724"
            id="text5190"><tspan
              sodipodi:role="line"
              id="tspan5188"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="194.73062"
              y="57.655724">1</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="112.32374"
            y="63.735363"
            id="text5170-5"><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="112.32374"
              y="63.735363"
              id="tspan7351">+compteEpargne</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="108.55765"
            y="71.714218"
            id="text5178-6"><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="108.55765"
              y="71.714218"
              id="tspan5184-7">1</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="195.05144"
            y="72.388733"
            id="text5190-1"><tspan
              sodipodi:role="line"
              id="tspan5188-7"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="195.05144"
              y="72.388733">1</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="200.50748"
            y="53.581985"
            id="text7357"><tspan
              sodipodi:role="line"
              id="tspan7355"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="200.50748"
              y="53.581985">+solde : double</tspan><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="200.50748"
              y="62.401436"
              id="tspan7359" /></text>
         <text
            xml:space="preserve"
-           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-           x="16.02879"
-           y="76.99659"
+           style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
+           x="15.522625"
+           y="78.271034"
            id="text8161"><tspan
              sodipodi:role="line"
              id="tspan8159"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-             x="16.02879"
-             y="76.99659">+getSolde():double</tspan><tspan
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
+             x="15.522625"
+             y="78.271034">+getSolde():double</tspan><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-             x="16.02879"
-             y="85.81604"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
+             x="15.522625"
+             y="87.090485"
              id="tspan8163">+remunerer()</tspan><tspan
              sodipodi:role="line"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-             x="16.02879"
-             y="94.63549"
-             id="tspan8165">+crediter(double)</tspan></text>
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
+             x="15.522625"
+             y="95.909935"
+             id="tspan8165">+crediter(double)</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
+             x="15.522625"
+             y="104.72939"
+             id="tspan311">+Dossier()</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
            x="91.603897"
            y="19.609119"
            id="text8997"><tspan
              sodipodi:role="line"
              id="tspan8995"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none;stroke-opacity:1"
              x="91.603897"
              y="19.609119">Diagrame UML de classe</tspan></text>
+        <text
+           xml:space="preserve"
+           style="stroke:none;stroke-opacity:1;font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="200.93065"
+           y="78.627716"
+           id="text1039"><tspan
+             sodipodi:role="line"
+             id="tspan1037"
+             style="font-size:7.05556px;stroke-width:0.264583;stroke:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+             x="200.93065"
+             y="78.627716">+Compte()</tspan></text>
       </g>
     </g>
   </g>
