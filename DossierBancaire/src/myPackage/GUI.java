@@ -13,12 +13,12 @@ import javax.swing.JButton;
 public class GUI  implements ActionListener 
 {
 
-	private DossierBancaire m_dossier;
+	private Dossier m_dossier;
 	private JTextField m_saisie_depot;
 	private JTextField m_display_solde;
 	private JButton m_remunerer;
 	// Constructeur
-    public GUI(DossierBancaire d)
+    public GUI(Dossier d)
     {
     	//Dossier
     	m_dossier 			= d;
@@ -35,7 +35,7 @@ public class GUI  implements ActionListener
     	//Element affichage solde
         m_display_solde = new JTextField (20);
         m_display_solde.setEditable(false); //Pour eviter d'ecrire
-        m_display_solde.setText(Double.toString(m_dossier.get_solde()));
+        m_display_solde.setText(Double.toString(m_dossier.getSolde()));
         
         
         //Initialisation de la fenetre generale
@@ -60,13 +60,13 @@ public class GUI  implements ActionListener
     	if( e.getSource() == m_saisie_depot )
     	{
     		float depot_value=Float.parseFloat(m_saisie_depot.getText());
-    		m_dossier.deposer(depot_value);
+    		m_dossier.crediter(depot_value);
     		m_saisie_depot.setText("");
     	}
     	if( e.getSource() == m_remunerer )
     	{
     		m_dossier.remunerer();
     	}
-    	m_display_solde.setText(Double.toString(m_dossier.get_solde()));  	
+    	m_display_solde.setText(Double.toString(m_dossier.getSolde()));  	
     }
 }

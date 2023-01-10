@@ -3,9 +3,9 @@ package myPackage;
 public class Main {
     public static void main(String[] args) 
     {
-        DossierBancaire obj=new DossierBancaire();
+        Dossier obj=new Dossier();
         GUI g = new GUI(obj);
-        //System.out.println("Solde: " + obj.get_solde());             
+        System.out.println("Solde: " + obj.getSolde());             
     }
 
 }
