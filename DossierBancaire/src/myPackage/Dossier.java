@@ -1,5 +1,6 @@
 package myPackage;
 
+//Dossier Bancaire
 public class Dossier {
 	
 	public Compte compteCourant;
@@ -20,5 +21,12 @@ public class Dossier {
     }
     public void remunerer() {
     	compteEpargne.remunerer();
+    }
+    public void retirer(double val) throws Exception {
+		compteCourant.solde -= val;
+		if(compteCourant.solde < 0) {
+			compteCourant.solde += val;
+			throw new Exception("Le compte courant n'est pas suffisament approvisionné");
+		}
     }
 }

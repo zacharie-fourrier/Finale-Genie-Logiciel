@@ -58,4 +58,12 @@ public class TestsDossierBancaire {
 		compte.remunerer();
 		assertEquals(103.2,compte.solde,0);
 	}
+	
+	@Test(expected = Exception.class)
+	public void test7() throws Exception {
+		Dossier dossier = new Dossier();
+		dossier.crediter(100);
+		dossier.retirer(50);
+		fail("Une exception devrait être levée");
+	}
 }
